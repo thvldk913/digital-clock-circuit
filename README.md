@@ -1,7 +1,7 @@
-# Digital System final project
+@ Digital System final project
 # digital-clock-circuit
 
-Altera Quartus Block Diagram
+Altera Quartus2 Block Diagram
 - Clock Pulse : 60pps
 - SEC,MIN : mod 60 counter
 - HOUR : mod 12 counter, mod 24 counter
