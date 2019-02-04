@@ -1,5 +1,6 @@
 # digital-clock-circuit
 @ Digital System final project
+
 Altera Quartus2 Block Diagram
 - Clock Pulse : 60pps
 - SEC,MIN : mod 60 counter
