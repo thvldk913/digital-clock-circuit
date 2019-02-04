@@ -1,4 +1,4 @@
-Digital System final project
+# Digital System final project
 # digital-clock-circuit
 
 Altera Quartus Block Diagram
